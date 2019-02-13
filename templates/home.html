@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Flask Tutorial</title>
+  </head>
+  <body>
+    {% extends "template.html" %}
+    {% block content %}
+
+    <h1> Pick a Kitten or a Puppy </h1>
+    <p> Aren't They Cute? </p>
+
+    <a href="http://127.0.0.1:5000/about">
+    <img src="static/css/puppy1.jpeg" />
+    </a>
+
+    <a href="http://127.0.0.1:5000/about">
+    <img src="static/css/puppy2.jpeg" />
+    </a>
+
+    <a href="http://127.0.0.1:5000/about">
+    <img src="static/css/puppy3.jpeg" />
+    </a>
+
+    <a href="http://127.0.0.1:5000/about">
+    <img src="static/css/kitten1.jpeg" />
+    </a>
+
+    <a href="http://127.0.0.1:5000/about">
+    <img src="static/css/kitten2.jpeg" />
+    </a>
+
+    <a href="http://127.0.0.1:5000/about">
+    <img src="static/css/kitten3.jpeg" />
+    </a>
+
+    {% endblock %}
+  </body>
+</html>
