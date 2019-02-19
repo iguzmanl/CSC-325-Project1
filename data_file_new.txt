@@ -1,0 +1,23 @@
+has visited, page title, headers, time
+
+True, home, Host: 127.0.0.1:5000
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.109 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: session=eyJoYXMgdmlzaXRlZCI6dHJ1ZX0.XGxqRQ.6WlECu5ZVd7C0pV3iaICU2-26b0; somecookiename=iamcookie
+
+, 2019-02-19 13:19:08.339715, 
+True, pup, Host: 127.0.0.1:5000
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.109 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Referer: http://127.0.0.1:5000/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: session=eyJoYXMgdmlzaXRlZCI6dHJ1ZX0.XGxqRQ.6WlECu5ZVd7C0pV3iaICU2-26b0; somecookiename=iamcookie
+
+, 2019-02-19 13:19:12.730774, 
