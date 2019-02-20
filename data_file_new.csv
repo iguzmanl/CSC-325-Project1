@@ -20,3 +20,24 @@ Accept-Language: en-US,en;q=0.9
 Cookie: session=eyJoYXMgdmlzaXRlZCI6dHJ1ZX0.XGxqRQ.6WlECu5ZVd7C0pV3iaICU2-26b0; somecookiename=iamcookie
 
 , 2019-02-19 13:19:53.143425, 
+None, home, Host: 127.0.0.1:5000
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.109 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+
+, 2019-02-20 11:02:16.753198, 
+True, home, Host: 127.0.0.1:5000
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.109 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: session=eyJoYXMgdmlzaXRlZCI6dHJ1ZX0.XG2kOA.unW8zjrQr0wp_akGBqUW_x3bQGo
+
+, 2019-02-20 11:02:26.279144, 
+True, ('Host', '127.0.0.1:5000'), ('Connection', 'keep-alive'), ('Cache-Control', 'max-age=0'), ('Upgrade-Insecure-Requests', '1'), ('User-Agent', 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.109 Safari/537.36'), ('Accept', 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8'), ('Accept-Encoding', 'gzip, deflate, br'), ('Accept-Language', 'en-US,en;q=0.9'), ('Cookie', 'session=eyJoYXMgdmlzaXRlZCI6dHJ1ZX0.XG2kOA.unW8zjrQr0wp_akGBqUW_x3bQGo'), home, 2019-02-20 11:04:30.780170, True, ('Host', '127.0.0.1:5000'), ('Connection', 'keep-alive'), ('Cache-Control', 'max-age=0'), ('Upgrade-Insecure-Requests', '1'), ('User-Agent', 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.109 Safari/537.36'), ('Accept', 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8'), ('Accept-Encoding', 'gzip, deflate, br'), ('Accept-Language', 'en-US,en;q=0.9'), ('Cookie', 'session=eyJoYXMgdmlzaXRlZCI6dHJ1ZX0.XG2kOA.unW8zjrQr0wp_akGBqUW_x3bQGo'), home, 2019-02-20 11:05:53.895719, 

@@ -79,14 +79,17 @@ def get_cookie():
 
 def write_to_file(page_title):
     print("you went to :" + page_title)
-    user_headers = str(request.headers)
+    user_headers = request.headers
     t = str(datetime.now())
-    with open("data_file_new.csv", "a") as write_file:
+    with open("data_file_new1.csv", "a") as write_file:
         # has visited, page title, headers, time
-        write_file.write("\n")
         write_file.write(str(session.get('has visited')) + ", "  )
+        for h in user_headers:
+        	print (str(h[0]) + ": " + str(h[1]))
+        	write_file.write(str(h[1]).replace(","," ")  + ", " )
         write_file.write(page_title  + ", " )
-        write_file.write(user_headers  + ", " )
         write_file.write(t  + ", " )
+        write_file.write("\n")
+
 
 app.run(debug=True, host="127.0.0.1", port=5000)
